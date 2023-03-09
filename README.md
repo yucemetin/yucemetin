@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yucemetin&label=Profile%20views&color=0e75b6&style=flat" alt="yucemetin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yucemetin" alt="yucemetin" /></a> </p>
-
 - 🌱 I’m currently learning **Microservice, Go and Kubernetes**
 
 - 💬 Ask me about **React and Springboot**
